@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\bin\Debug\net7.0\ProjetoHospedagem.exe
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\bin\Debug\net7.0\ProjetoHospedagem.deps.json
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\bin\Debug\net7.0\ProjetoHospedagem.runtimeconfig.json
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\bin\Debug\net7.0\ProjetoHospedagem.dll
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\bin\Debug\net7.0\ProjetoHospedagem.pdb
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\obj\Debug\net7.0\ProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\obj\Debug\net7.0\ProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\obj\Debug\net7.0\ProjetoHospedagem.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\obj\Debug\net7.0\ProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\obj\Debug\net7.0\ProjetoHospedagem.dll
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\obj\Debug\net7.0\refint\ProjetoHospedagem.dll
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\obj\Debug\net7.0\ProjetoHospedagem.pdb
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\obj\Debug\net7.0\ProjetoHospedagem.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Documentos\ProjetoHospedagem\obj\Debug\net7.0\ref\ProjetoHospedagem.dll
